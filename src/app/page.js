@@ -13,6 +13,7 @@ export default function Home() {
         <div className="flex flex-row">
         <Sidebar/>
         <Stats/>
+
         </div>
         
     </main>
