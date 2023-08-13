@@ -1,9 +1,13 @@
-
 @import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Mulish&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@500&family=Kanit&family=Yeseva+One&display=swap');
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.font-yeseva_one {
+  font-family: 'Yeseva One', sans-serif;
+}
 
 /* :root {
   --foreground-rgb: 0, 0, 0;
