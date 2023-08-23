@@ -9,7 +9,7 @@ module.exports = {
   theme: {
     extend: {
       backgroundImage:{
-        home: 'url("/background.png")'
+        home: 'url("/homebg.png")'
       },
       fontFamily:{
         poppins: ['Poppins'],
