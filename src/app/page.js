@@ -17,10 +17,9 @@ export default function Home() {
         <Sidebar />
         <div className='bg-custom-blue'>
           <FourtyYears />
-          <Stats/>
+          <Stats />
         </div>
-        
       </div>
     </main>
-  )
+  );
 }
