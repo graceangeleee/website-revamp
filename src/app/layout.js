@@ -1,5 +1,5 @@
 import './globals.css';
-import { Inter, Yeseva_One } from 'next/font/google';
+
 
 export const metadata = {
   title: 'UPLB COSS',
